@@ -67,12 +67,12 @@ Verify device connection:
 
 2. Make the script executable:
 
-`chmod +x health_check.sh`
+`chmod +x Performance_Report.sh`
 
 3. Open the target app on your Android device (must be in the foreground)  
 4. Run the script:
 
-`./health_check.sh`
+`./Performance_Report.sh`
 
 ---
 
